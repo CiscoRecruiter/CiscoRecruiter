@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiscoRecruiter   I'm a Recruiter with Cisco. I'm seeking future Cisco employees (not contract, not C2C, not temps, but W-2)
 - 👀 I’m interested in connecting with Developers about great opportunities at Cisco.
-- 🌱 Our API is building a Threat Intelligence API Server that integrates all Cisco Security Products and third party data. The API services team is defining the future of our Data Platform and Integrated Security architecture. 
+- 🌱 I support Cisco's Security Business Group, so all positions I post are related to Cisco's growing Security practice and products. sco.com/c/en/us/products/security/product-listing.html 
 
 
 - 📫 How to reach me: Eileen Norton, EiNorton@Cisco.com
