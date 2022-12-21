@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CiscoRecruiter   I'm a Recruiter with Cisco. I'm seeking future Cisco employees (not contract, not C2C, not temps, but W-2)
-- 👀 I’m interested in connecting with Developers about great opportunities at Cisco.
-- 🌱 I support Cisco's Security Business Group, so all positions I post are related to Cisco's growing Security practice and products. sco.com/c/en/us/products/security/product-listing.html 
+- 👋 Hi, I’m @CiscoRecruiter, a Talent Advisor with Cisco. I'm seeking future Cisco employees (not contract, not C2C, not temps, but W-2 full-time employees)
+- 👀 I’m interested in connecting with Developers & SREs about great opportunities at Cisco.
+- 🌱 I support Cisco Secure (previously known as Cisco's Security Business Group). Positions I post are related to Cisco's growing Security practice and products. sco.com/c/en/us/products/security/product-listing.html 
 
 
 - 📫 How to reach me: Eileen Norton, EiNorton@Cisco.com
