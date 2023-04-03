@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CiscoRecruiter, a Talent Advisor with Cisco. 
-- 🌱 I support Cisco Secure (previously known as Cisco's Security Business Group).
+- 👋 Hi, I’m Eileen Norton, @CiscoRecruiter. I'm a Senior Talent Advisor with Cisco. 
+- 🌱 I support Cisco Secure (previously known as Cisco's Security Business Group). I support the Threat Detection & Response organization.
 -  I post (as Gists) positions supporting Cisco's growing Security practice and products: Security Resilience!  
 -                    https://www.cisco.com/site/us/en/products/security/index.html#tabs-36b1cf8e54-item-b532439425-tab
 - I’m interested in connecting with Developers & SREs about great opportunities with Cisco Secure supporting the future of Cisco!
